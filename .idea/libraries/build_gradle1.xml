@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="build.gradle1" type="kotlin.js">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/eureka-service/build.gradle.kts" />
+    </SOURCES>
+  </library>
+</component>

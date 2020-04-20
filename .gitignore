@@ -1,0 +1,56 @@
+beer-catalog-service/HELP.md
+beer-catalog-service/.gradle
+beer-catalog-service/build/
+beer-catalog-service/!gradle/wrapper/gradle-wrapper.jar
+beer-catalog-service/!**/src/main/**
+beer-catalog-service/!**/src/test/**
+beer-catalog-service/### STS ###
+beer-catalog-service/.apt_generated
+beer-catalog-service/.classpath
+beer-catalog-service/.factorypath
+beer-catalog-service/.project
+beer-catalog-service/.settings
+beer-catalog-service/.springBeans
+beer-catalog-service/.sts4-cache
+beer-catalog-service/### IntelliJ IDEA ###
+beer-catalog-service/.idea
+beer-catalog-service/*.iws
+beer-catalog-service/*.iml
+beer-catalog-service/*.ipr
+beer-catalog-service/out/
+beer-catalog-service/### NetBeans ###
+beer-catalog-service/nbproject/private/
+beer-catalog-service/nbbuild/
+beer-catalog-service/dist/
+beer-catalog-service/nbdist/
+beer-catalog-service/.nb-gradle/
+beer-catalog-service/### VS Code ###
+beer-catalog-service/.vscode/
+
+eureka-service/.gradle
+eureka-service/build/
+eureka-service/!gradle/wrapper/gradle-wrapper.jar
+eureka-service/!**/src/main/**
+eureka-service/!**/src/test/**
+eureka-service/### STS ###
+eureka-service/.apt_generated
+eureka-service/.classpath
+eureka-service/.factorypath
+eureka-service/.project
+eureka-service/.settings
+eureka-service/.springBeans
+eureka-service/.sts4-cache
+eureka-service/### IntelliJ IDEA ###
+eureka-service/.idea
+eureka-service/*.iws
+eureka-service/*.iml
+eureka-service/*.ipr
+eureka-service/out/
+eureka-service/### NetBeans ###
+eureka-service/nbproject/private/
+eureka-service/nbbuild/
+eureka-service/dist/
+eureka-service/nbdist/
+eureka-service/.nb-gradle/
+eureka-service/### VS Code ###
+eureka-service/.vscode/

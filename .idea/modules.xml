@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.beer-catalog-service.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.beer-catalog-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.beer-catalog-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.beer-catalog-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.beer-catalog-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.beer-catalog-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.eureka-service.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.eureka-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.eureka-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.eureka-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.eureka-service.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservices.iml" filepath="$PROJECT_DIR$/.idea/microservices.iml" />
+    </modules>
+  </component>
+</project>
